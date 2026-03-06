@@ -1,6 +1,8 @@
 node_modules/
 dist/
 .env
+__pycache__/
+*.pyc
 *.tsbuildinfo
 drizzle/meta/
 .vite/
